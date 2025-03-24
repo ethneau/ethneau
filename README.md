@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi! I'm Ethne, a CS student at Western
+Hi! I'm Ethne, a CS student at Western!
 
 # 💻 Tech Stack:
 
